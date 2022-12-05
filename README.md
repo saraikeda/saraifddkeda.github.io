@@ -1,0 +1,17 @@
+# studyabroad.github.io
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="'utf-8 ">
+        <meta name="viewport" content="'width=device-width, initial-scale=1">
+        <title>StudyAbroad</title>
+        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type="text/css" href="css">
+    </head>
+    <body>
+         <h1>StudyAbroad</h1>
+         <!-- make font for h1 bigger + into montserrat-->
+         <h2>(Catchphrase tbc)</h2>
+
+    </body>
+</html>
